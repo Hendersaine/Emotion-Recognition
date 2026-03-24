@@ -8,4 +8,5 @@ The image below shows the corresponding point that each coordinate corresponds t
 ![Dataset](plotted_face.png)
 <br><br>
 The final confusion matrix is shown below, with most emotions being classified correclty consistently, with the exception of emotion 2 (Fear) and emotion 5 (Disgust). This is likely due to the fact that these emotions have similar expressions that are being shown, so the model was not able to accurately create a distinction with one another.
+<br>
 ![Dataset](confusion_matrix.png)
